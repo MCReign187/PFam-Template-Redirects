@@ -1,4 +1,4 @@
-## GitHub redirects
+## GitHub redirect links:
 
 [Main](https://mcreign187.github.io/PFam-Template-Redirects/Main.html)
 
