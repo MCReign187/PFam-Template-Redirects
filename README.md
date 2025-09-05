@@ -1,10 +1,10 @@
 ## GitHub redirects
 
-[Main](https://mcreign187.github.io/PFam-Template-Redirects/art.html)
+[Main](https://mcreign187.github.io/PFam-Template-Redirects/Main.html)
 
-[Full]() 
+[Full](https://mcreign187.github.io/PFam-Template-Redirects/Full.html) 
 
-[Numbers]()
+[Numbers](https://mcreign187.github.io/PFam-Template-Redirects/Numbers.html)
 
-[Dotted]()
+[Dotted](https://mcreign187.github.io/PFam-Template-Redirects/Dotted.html)
 
