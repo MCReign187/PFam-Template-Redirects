@@ -1,4 +1,4 @@
-![ironmouse logo](logo-image.jpg)
+![logo-image](logo-image.jpg)
 
 
 ## GitHub redirect links:
