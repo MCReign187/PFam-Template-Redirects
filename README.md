@@ -8,3 +8,12 @@
 
 [Dotted](https://mcreign187.github.io/PFam-Template-Redirects/Dotted.html)
 
+## Conner canvas links:
+
+[conner-main](https://mcreign187.github.io/PFam-Template-Redirects/)
+
+[conner-pxls-main](https://mcreign187.github.io/PFam-Template-Redirects/)
+
+[conner-pxls-numbers](https://mcreign187.github.io/PFam-Template-Redirects/)
+
+[conner-pxls-dotted](https://mcreign187.github.io/PFam-Template-Redirects/)
